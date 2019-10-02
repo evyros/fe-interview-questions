@@ -1,0 +1,7 @@
+1. Explain the difference between display: block, inline and inline-block;
+2. List the effects of position:relative
+3. What is the box-sizing: border-box; ? why using it?
+4. When it's better to use flexbox over grid?
+5. What is the "box model"?
+6. What's the difference between a `relative`, `fixed`, `absolute` and `static`ally positioned element?
+7. Is there any reason you'd want to use `translate()` instead of `absolute` positioning, or vice-versa? And why?
